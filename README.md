@@ -4,7 +4,7 @@ AWS Lab 17
 
 [Link to JSON File](https://lab-17-image-bucket.s3.us-west-2.amazonaws.com/images/images.json)
 
-## Notes 
+## Notes
 
 - When image is uploaded to bucket lambda function adds image information to JSON file.  
-- In this lab I ran into permissions issues and just general confusion about how this works and how to navigate AWS.  
+- I am not sure where I am going wrong yet but will be digging into in the next couple of days. I feel that I am not getting the image,json file at this point.  
