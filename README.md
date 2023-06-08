@@ -2,7 +2,7 @@
 
 AWS Lab 17
 
-[Link to JSON File](https://lab-17-image-bucket.s3.us-west-2.amazonaws.com/images/images.json)
+[Link to JSON File](https://justin-lab17-images.s3.us-west-2.amazonaws.com/images.json)
 
 ## Notes
 
